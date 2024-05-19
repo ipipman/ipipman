@@ -1,13 +1,4 @@
----
-# 🌟 欢迎来到ipMan的Java核心GitHub仓库！🌟
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java编程" width="100"/>
-</p>
-
-<p align="center">
-  <em>"好的程序员编写代码，优秀的程序员重用代码。" —— Dijkstra</em>
-</p>
 
 ## 👋 关于我
 
