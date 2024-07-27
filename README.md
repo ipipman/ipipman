@@ -6,9 +6,9 @@
   </h3>
 </div>
  
-<a href="http://wangxin.io">
+<a href="https://github.com/ipipman">
    <img align="left" height=170px  width=400px  src="https://github-readme-stats.vercel.app/api?username=ipipman&show_icons=true&count_private=true" />
 </a>
-<a href="http://wangxin.io">
+<a href="https://github.com/ipipman">
   <img align="right" height=170px  width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipipman&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
 </a>
